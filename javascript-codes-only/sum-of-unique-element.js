@@ -12,7 +12,7 @@ function sumOfUniqueElement(nums) {
       sum += nums[i];
     }
   }
-  return sum;
+  return sum;  
 }
 
 console.log(sumOfUniqueElement([1, 2, 3]));
